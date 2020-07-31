@@ -1,0 +1,18 @@
+h1{
+    border: whitesmoke;
+    color: greenyellow;
+}
+
+h3{
+    border: whitesmoke;
+    color: greenyellow;
+}
+
+*{
+    border: hidden;
+}
+
+a{
+    border: thin;
+    margin-left: 10px;
+}
